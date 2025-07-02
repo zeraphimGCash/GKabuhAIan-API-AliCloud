@@ -1,0 +1,6 @@
+__pycache__/
+**/.DS_Store
+.env
+/images
+google-creds.json
+credentials.json
